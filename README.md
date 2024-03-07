@@ -4,4 +4,8 @@
 
 There are several applications of this technique in business such as the following
 - Time until product failure
+- Time until a waranty claim
+- Time until a process reaches a critical level
+- Tiem from intitial sales contact to a sale
+- Time to employee attrition
 - 
