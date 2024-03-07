@@ -8,4 +8,4 @@ There are several applications of this technique in business such as the followi
 - Time until a process reaches a critical level
 - Tiem from intitial sales contact to a sale
 - Time to employee attrition
-- 
+- Time from a hire to first output e.g time from sales hire to first sale
