@@ -9,3 +9,9 @@ There are several applications of this technique in business such as the followi
 - Tiem from intitial sales contact to a sale
 - Time to employee attrition
 - Time from a hire to first output e.g time from sales hire to first sale
+
+### Basic Concepts
+- Survival Time: The time from a specific starting point (like the start of a study) until the occurrence of the event of interest.
+- Censoring: Incomplete information on survival times. For example, if a patient is still alive at the end of a study, their survival time is censored.
+- Survival Function (S(t)): The probability that an individual survives beyond time t.
+- Hazard Function (λ(t)): The instantaneous rate at which events occur at time t, given survival up to that time.
