@@ -15,3 +15,5 @@ There are several applications of this technique in business such as the followi
 - Censoring: Incomplete information on survival times. For example, if a patient is still alive at the end of a study, their survival time is censored.
 - Survival Function (S(t)): The probability that an individual survives beyond time t.
 - Hazard Function (λ(t)): The instantaneous rate at which events occur at time t, given survival up to that time.
+
+More Specifically, we are going to investigate the application of survival analysis in the credit financing industry in this research
